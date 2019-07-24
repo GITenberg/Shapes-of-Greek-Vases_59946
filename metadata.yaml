@@ -1,0 +1,29 @@
+_repo: Shapes-of-Greek-Vases_59946
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Metropolitan Museum of Art (New York, N.Y.)
+    aliases:
+    - Art, Metropolitan Museum of
+    - Art, The Metropolitan Museum of
+    - New York (N.Y.). Metropolitan Museum of Art
+    - New York (City). Metropolitan Museum of Art
+    gutenberg_agent_id: '50705'
+    url: http://www.gutenberg.org/2009/agents/50705
+    wikipedia: https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art
+description: ''
+gutenberg_issued: '2019-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59946'
+  lccn: '23002340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vases, Greek'
+- !lcc 'NK'
+- GITenberg
+title: Shapes of Greek Vases
+url: http://www.gutenberg.org/ebooks/59946
